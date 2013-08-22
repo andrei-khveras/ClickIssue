@@ -18,6 +18,7 @@ public class ClickTEst {
 		}
 		
 		System.out.println("Button was clicked");
+		wd.quit();
 	}	
-		
+	
 }
