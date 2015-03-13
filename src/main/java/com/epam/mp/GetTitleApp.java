@@ -15,6 +15,6 @@ public class GetTitleApp {
 		String pageTitle = wd.getTitle(); //Initialization variable pageTitle by the title of the opened page.
 		wd.quit(); //Closing opened page
 		return pageTitle; //Return title of the page
-		/*Commit from Eclipse*/
+		//Check commit from Eclipse on Windows
 	}
 }
